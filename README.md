@@ -1,6 +1,8 @@
 Git Changelog Jenkins Plugin
 ===========================
 
+For issues, please use the official jenkins fork repository: https://github.com/jenkinsci/git-changelog-plugin.
+
 Jenkins plugin to extract a changelog out of commit messages between two GIT revisions. This changelog can be postprocessed and converted
 to either an human readable git changelog listing all commits, or a JIRA filter URL.
 It implements basically the features of [git-changelog](https://github.com/paulwellnerbou/git-changelog).

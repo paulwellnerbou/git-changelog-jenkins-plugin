@@ -68,19 +68,19 @@
     <repositories>
         <repository>
             <id>repo.jenkins-ci.org</id>
-            <url>http://repo.jenkins-ci.org/public/</url>
+            <url>https://repo.jenkins-ci.org/public/</url>
         </repository>
         <repository>
             <id>bintray-paulwellnerbou-maven</id>
             <name>bintray</name>
-            <url>http://dl.bintray.com/paulwellnerbou/maven</url>
+            <url>https://dl.bintray.com/paulwellnerbou/maven</url>
         </repository>
     </repositories>
 
     <pluginRepositories>
         <pluginRepository>
             <id>repo.jenkins-ci.org</id>
-            <url>http://repo.jenkins-ci.org/public/</url>
+            <url>https://repo.jenkins-ci.org/public/</url>
         </pluginRepository>
     </pluginRepositories>
 
